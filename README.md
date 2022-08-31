@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joao Roberto
+- 👋 Hi, I’m  Roberto Lima
 - 👀 I’m interested in pyhon 
 - 🌱 I’m currently learning micropython 
 - 💞️ I’m looking to collaborate on ...
